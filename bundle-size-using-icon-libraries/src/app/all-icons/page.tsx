@@ -5,7 +5,7 @@ export default function Page() {
   console.log("render all-icons page");
   return (
     <Button>
-      <IconImportAll icon="AcademicCapIcon" /> Hello All
+      <IconImportAll icon="AcademicCapIcon" /> With Icon
     </Button>
   );
 }
